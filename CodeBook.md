@@ -58,7 +58,10 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
-MODIFICATIONS FOR COURSERA GETTING AND CLEANING DATA COURSE.
+PROCESSED DATA
+=================
+
+(MODIFICATIONS FOR COURSERA GETTING AND CLEANING DATA COURSE)
 
 
 All the vectors, variable names of the vectors, subjects, and activities that the subjects were developing were joined in one wide dataframe.
@@ -72,6 +75,7 @@ Finally, the table was grouped by subject and activity and a wide dataframe was 
 
 
 JUSTIFICATION:
+
 "t" and "f" as the initial character in variable names:
 
 I changed the "t" and "f" in the beginning of the variable names to "time" and "freq" because it has something to do with the time domain and the frequency domain, only to please the apparent taste of the instructors and reviewers. I personally think it's more clumsy, not less.
