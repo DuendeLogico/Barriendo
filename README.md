@@ -5,7 +5,7 @@ Coursera Getting and Cleaning Data Course Project
 
 The "CodeBook" file contains
 
-1. The original codebook (the original description of the variables by the original authors), which is quite difficult to understand. The units are not clear, and apparenTly are normalized vectors.
+1. The original codebook (the original description of the variables by the original authors), which is quite difficult to understand. The units are not clear, and apparently are normalized vectors.
 
 2. A summary of all the modifications that I made to the raw data to transform them into the processed data.
 
