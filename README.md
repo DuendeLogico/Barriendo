@@ -14,6 +14,8 @@ The script is intended to run in the working directory, not necessarily with the
 The result is the creation of a new file in the working directory, called "Final_table.txt", that contains the processed data.
 
 The script needs the "dplyr" package to be installed in order to run properly !!!
-In the R console, type install.packages("dplyr")
+If dplyr is not installed, then type
 
+install.packages("dplyr")
 
+before running the script.
